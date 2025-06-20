@@ -1,0 +1,37 @@
+{
+  "mpName": "Kanishka Narayan",
+  "constituency": "Vale of Glamorgan",
+  "surgeryHours": 20000,
+  "casesClosed": 0,
+  "parliamentContributions": 47,
+  "parliamentVotes": 89,
+  "communityVisits": {
+    "category1": {
+      "number": 12,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 8,
+      "label": "Classrooms"
+    },
+    "category3": {
+      "number": 14,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "Healthcare improvements",
+    "Education funding",
+    "Local infrastructure"
+  ],
+  "votePriorities": [
+    "Housing affordability",
+    "Transport improvements",
+    "Economic growth"
+  ],
+  "localProject": {
+    "name": "Barry Youth Center Renovation",
+    "achievement": "Secured £2.3M funding and completed full renovation, now serving 200+ young people with modern facilities, sports equipment, and educational programs."
+  },
+  "quote": "vibes from the vale"
+}
