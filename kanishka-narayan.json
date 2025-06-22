@@ -1,37 +1,34 @@
 {
-  "mpName": "Kanishka Narayan",
-  "constituency": "Vale of Glamorgan",
-  "surgeryHours": 20000,
-  "casesClosed": 0,
-  "parliamentContributions": 47,
-  "parliamentVotes": 89,
+  "mpName": "kanishka-narayan",
+  "constituency": "vale of glamorgan",
+  "surgeryHours": 30,
+  "casesClosed": 20,
+  "parliamentContributions": 20,
+  "parliamentVotes": 40,
   "communityVisits": {
     "category1": {
-      "number": 12,
-      "label": "Businesses"
+      "number": 20,
+      "label": "goose"
     },
     "category2": {
-      "number": 8,
-      "label": "Classrooms"
+      "number": 30,
+      "label": "loose"
     },
     "category3": {
-      "number": 14,
-      "label": "Community Events"
+      "number": 50,
+      "label": "hoose"
     }
   },
   "contributionPriorities": [
-    "Healthcare improvements",
-    "Education funding",
-    "Local infrastructure"
+    "goose",
+    "moose"
   ],
   "votePriorities": [
-    "Housing affordability",
-    "Transport improvements",
-    "Economic growth"
+    "fiugwrpi"
   ],
   "localProject": {
-    "name": "Barry Youth Center Renovation",
-    "achievement": "Secured £2.3M funding and completed full renovation, now serving 200+ young people with modern facilities, sports equipment, and educational programs."
+    "name": "f[osjnp",
+    "achievement": "johsdjobdsv"
   },
-  "quote": "vibes from the vale"
+  "quote": "sipdvsp"
 }
