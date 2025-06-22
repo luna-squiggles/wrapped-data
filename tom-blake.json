@@ -1,0 +1,37 @@
+{
+  "mpName": "Tom Blake ",
+  "constituency": "France ",
+  "surgeryHours": 60,
+  "casesClosed": 800,
+  "parliamentContributions": 50,
+  "parliamentVotes": 167,
+  "communityVisits": {
+    "category1": {
+      "number": 40,
+      "label": "Businesses "
+    },
+    "category2": {
+      "number": 18,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 50,
+      "label": "Community Events "
+    }
+  },
+  "contributionPriorities": [
+    "Veterans ",
+    "Jobs ",
+    "Narwhales "
+  ],
+  "votePriorities": [
+    "Economy ",
+    "Tax",
+    "Business "
+  ],
+  "localProject": {
+    "name": "40 million for France ",
+    "achievement": "A free Croque Monseiur for every citizen "
+  },
+  "quote": "Thank you for making it happen "
+}
