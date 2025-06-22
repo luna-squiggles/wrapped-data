@@ -1,0 +1,37 @@
+{
+  "mpName": "Big guy",
+  "constituency": "The locality",
+  "surgeryHours": 499500,
+  "casesClosed": 2,
+  "parliamentContributions": 3,
+  "parliamentVotes": 5,
+  "communityVisits": {
+    "category1": {
+      "number": 53,
+      "label": "Dealing with ruffians "
+    },
+    "category2": {
+      "number": 1,
+      "label": "Printing money "
+    },
+    "category3": {
+      "number": 86,
+      "label": "Securing British cheesemongers"
+    }
+  },
+  "contributionPriorities": [
+    "What is love?",
+    "Is the new pope dope?",
+    "How can we deal with reform?"
+  ],
+  "votePriorities": [
+    "Banning ice-cream",
+    "Banning duel use vapes ",
+    "Protecting our ponds "
+  ],
+  "localProject": {
+    "name": "An appointment center to allow my constituents to make appointments",
+    "achievement": "Over 100 appointments made "
+  },
+  "quote": "Labour together amiright?"
+}
