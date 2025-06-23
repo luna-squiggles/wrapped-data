@@ -1,0 +1,37 @@
+{
+  "mpName": "tom",
+  "constituency": "blake",
+  "surgeryHours": 4489,
+  "casesClosed": 67,
+  "parliamentContributions": 67,
+  "parliamentVotes": 63,
+  "communityVisits": {
+    "category1": {
+      "number": 67,
+      "label": "67"
+    },
+    "category2": {
+      "number": 6767,
+      "label": "67"
+    },
+    "category3": {
+      "number": 67,
+      "label": "67"
+    }
+  },
+  "contributionPriorities": [
+    "67",
+    "67",
+    "67"
+  ],
+  "votePriorities": [
+    "67",
+    "6767",
+    "6777"
+  ],
+  "localProject": {
+    "name": "fyuk",
+    "achievement": "fyuk"
+  },
+  "quote": "rtuyj"
+}
