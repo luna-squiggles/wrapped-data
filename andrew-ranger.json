@@ -1,0 +1,38 @@
+{
+  "mpName": "andrew ranger",
+  "constituency": "wrexham",
+  "surgeryHours": 44,
+  "casesClosed": 2000,
+  "parliamentContributions": 39,
+  "parliamentVotes": 199,
+  "communityVisits": {
+    "totalEngagements": 45,
+    "category1": {
+      "number": 30,
+      "label": "businesses "
+    },
+    "category2": {
+      "number": 20,
+      "label": "schools"
+    },
+    "category3": {
+      "number": 10,
+      "label": "community events"
+    }
+  },
+  "contributionPriorities": [
+    "wrexham",
+    "social mobility ",
+    "hospitality "
+  ],
+  "votePriorities": [
+    "planning and infrastructure ",
+    "crime and policing ",
+    "education"
+  ],
+  "localProject": {
+    "name": "social mobility report",
+    "achievement": "icrease socail mobility in wrexham\n"
+  },
+  "quote": "winning for wrexham"
+}
