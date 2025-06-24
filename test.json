@@ -1,37 +1,37 @@
 {
   "mpName": "test",
   "constituency": "test",
-  "surgeryHours": 0,
-  "casesClosed": 0,
-  "parliamentContributions": 0,
-  "parliamentVotes": 0,
+  "surgeryHours": 1,
+  "casesClosed": 1,
+  "parliamentContributions": 8,
+  "parliamentVotes": 9,
   "communityVisits": {
     "category1": {
-      "number": 0,
-      "label": "a"
+      "number": 4,
+      "label": "j"
     },
     "category2": {
-      "number": 0,
-      "label": "A"
+      "number": 9,
+      "label": "jpnjo"
     },
     "category3": {
-      "number": 0,
-      "label": "a"
+      "number": 9,
+      "label": "jnojn"
     }
   },
   "contributionPriorities": [
-    "a",
-    "a",
-    "a"
+    "hbl",
+    "8huo",
+    "bibhi"
   ],
   "votePriorities": [
-    "a",
-    "a",
-    "a"
+    "jnj",
+    "jnkln",
+    "njnjp"
   ],
   "localProject": {
-    "name": "a",
-    "achievement": "a"
+    "name": "kjnknj",
+    "achievement": "kjnljn"
   },
-  "quote": "a"
+  "quote": "klnnkj"
 }
