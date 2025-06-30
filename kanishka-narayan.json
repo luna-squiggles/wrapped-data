@@ -1,37 +1,39 @@
 {
   "mpName": "Kanishka Narayan",
   "constituency": "Vale of Glamorgan",
-  "surgeryHours": 100,
-  "casesClosed": 679,
-  "parliamentContributions": 169,
-  "parliamentVotes": 189,
+  "musicSelect": 3,
+  "surgeryHours": 120,
+  "casesClosed": 698,
+  "parliamentContributions": 89,
+  "parliamentVotes": 367,
   "communityVisits": {
+    "totalEngagements": 148,
     "category1": {
-      "number": 12,
-      "label": "Local Businesses "
+      "number": 23,
+      "label": "Businesses"
     },
     "category2": {
-      "number": 24,
-      "label": "Classrooms "
+      "number": 56,
+      "label": "Classrooms"
     },
     "category3": {
-      "number": 47,
-      "label": "Community Events "
+      "number": 24,
+      "label": "Community Fetes"
     }
   },
   "contributionPriorities": [
-    "Veterans ",
-    "Workers Rights ",
-    "Child Poverty "
+    "Veterans",
+    "Workers Rights",
+    "Child Poverty"
   ],
   "votePriorities": [
     "Military Housing Back in Public Control",
-    "Great British Energy ",
-    "Ban on Water CEO bonuses "
+    "Waiting Lists Down",
+    "Test Priority"
   ],
   "localProject": {
-    "name": "£40 Million for Barry and the Vale ",
-    "achievement": "Our community calling the shots on how its spent "
+    "name": "£48 Million for Barry",
+    "achievement": "Our community calling the shots on how to spend it"
   },
-  "quote": "Fighting for the Vale in Parliament "
+  "quote": "Your voice in Parliament"
 }
