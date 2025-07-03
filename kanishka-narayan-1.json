@@ -1,0 +1,39 @@
+{
+  "mpName": "Kanishka Narayan",
+  "constituency": "Vale of Glamorgan",
+  "musicSelect": 1,
+  "surgeryHours": 110,
+  "casesClosed": 4146,
+  "parliamentContributions": 82,
+  "parliamentVotes": 179,
+  "communityVisits": {
+    "totalEngagements": 266,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Classrooms"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "More jobs and lower bills",
+    "Fighting for our military families",
+    "Putting the Vale of Glamorgan first"
+  ],
+  "votePriorities": [
+    "Record funding for Wales",
+    "Boost to our defence budget",
+    "Bring NHS waiting lists down"
+  ],
+  "localProject": {
+    "name": "£40 million won for Barry",
+    "achievement": "Our community calling the shots on how to spend it"
+  },
+  "quote": "Your Voice in Parliament"
+}
