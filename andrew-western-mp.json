@@ -1,0 +1,39 @@
+{
+  "mpName": "Andrew Western MP",
+  "constituency": "Stretford and Urmston",
+  "musicSelect": 1,
+  "surgeryHours": 104,
+  "casesClosed": 7511,
+  "parliamentContributions": 56,
+  "parliamentVotes": 215,
+  "communityVisits": {
+    "totalEngagements": 149,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Fairs and Festivals"
+    }
+  },
+  "contributionPriorities": [
+    "Housing",
+    "Health",
+    "Crime and Policing"
+  ],
+  "votePriorities": [
+    "Bringing NHS waiting lists down",
+    "Neighbourhood police officers to tackle ASB",
+    "1.5m new houses in 5 years"
+  ],
+  "localProject": {
+    "name": "Bring a banking hub to Urmston",
+    "achievement": "Worked with Cash Access UK to secure a banking hub for Urmston town centre. Closure of all banks has left many constituents without banking services."
+  },
+  "quote": "Working hard for you"
+}
