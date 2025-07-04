@@ -1,0 +1,39 @@
+{
+  "mpName": "Tom Blake",
+  "constituency": "France",
+  "musicSelect": 2,
+  "surgeryHours": 268,
+  "casesClosed": 678,
+  "parliamentContributions": 78,
+  "parliamentVotes": 78,
+  "communityVisits": {
+    "totalEngagements": 39,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Classrooms"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "Dogs",
+    "Cats",
+    "Fish"
+  ],
+  "votePriorities": [
+    "23",
+    "89",
+    "78"
+  ],
+  "localProject": {
+    "name": "All Hands on Tech",
+    "achievement": ";ekartjgb"
+  },
+  "quote": "delivering for france"
+}
