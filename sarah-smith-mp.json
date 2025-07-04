@@ -1,0 +1,39 @@
+{
+  "mpName": "Sarah Smith MP",
+  "constituency": "Hyndburn and Haslingden",
+  "musicSelect": 7,
+  "surgeryHours": 40,
+  "casesClosed": 6485,
+  "parliamentContributions": 46,
+  "parliamentVotes": 155,
+  "communityVisits": {
+    "totalEngagements": 92,
+    "category1": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Charities"
+    }
+  },
+  "contributionPriorities": [
+    "Fixing the Cost of Living",
+    "Improving NHS Services",
+    "Tackling Crime and Antisocial Behaviour"
+  ],
+  "votePriorities": [
+    "Investing in Hyndburn",
+    "Standing up for Palestine",
+    "Making Opportunities for Young People"
+  ],
+  "localProject": {
+    "name": "Regenerating Accrington",
+    "achievement": "Accrington gets £20m boost, with local people deciding  how it’s spent to improve the town and shape its future over the next decade."
+  },
+  "quote": "Putting Hyndburn and Haslingden First"
+}
