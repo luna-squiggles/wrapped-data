@@ -1,0 +1,39 @@
+{
+  "mpName": "Cat Eccles",
+  "constituency": "Stourbridge",
+  "musicSelect": 2,
+  "surgeryHours": 60,
+  "casesClosed": 4777,
+  "parliamentContributions": 69,
+  "parliamentVotes": 147,
+  "communityVisits": {
+    "totalEngagements": 150,
+    "category1": {
+      "number": 0,
+      "label": "Local businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools and colleges"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Events and charities"
+    }
+  },
+  "contributionPriorities": [
+    "NHS",
+    "Welfare",
+    "Housing"
+  ],
+  "votePriorities": [
+    "Safer Streets",
+    "Opportunities For All",
+    "Economic Growth"
+  ],
+  "localProject": {
+    "name": "Metro to the Waterfront funded",
+    "achievement": "In the Autumn statement the Chancellor confirmed funding for the Metro to continue to the Waterfront in Brierley Hill"
+  },
+  "quote": "Standing up for Stourbridge"
+}
