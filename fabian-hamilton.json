@@ -1,0 +1,39 @@
+{
+  "mpName": "Fabian Hamilton",
+  "constituency": "Leeds North East",
+  "musicSelect": 5,
+  "surgeryHours": 50,
+  "casesClosed": 4723,
+  "parliamentContributions": 128,
+  "parliamentVotes": 197,
+  "communityVisits": {
+    "totalEngagements": 90,
+    "category1": {
+      "number": 0,
+      "label": "Local Schools"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Community Groups"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Faith Groups"
+    }
+  },
+  "contributionPriorities": [
+    "Ending Road Deaths",
+    "International Human Rights",
+    "Tackling Poverty"
+  ],
+  "votePriorities": [
+    "Supporting the NHS",
+    "Safer, more secure housing",
+    "Protecting our environment"
+  ],
+  "localProject": {
+    "name": "Ending elderly financial abuse",
+    "achievement": "Successfully campaigned to tackle financial abuse through marriage and with Lasting Powers of Attorney, with the Law Commission recommending changes."
+  },
+  "quote": "Fairness, Justice and Equality."
+}
