@@ -1,0 +1,39 @@
+{
+  "mpName": "Jo Bloggs",
+  "constituency": "Vale of Test",
+  "musicSelect": 1,
+  "surgeryHours": 156,
+  "casesClosed": 100000,
+  "parliamentContributions": 1,
+  "parliamentVotes": 1,
+  "communityVisits": {
+    "totalEngagements": 150,
+    "category1": {
+      "number": 0,
+      "label": "Business"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Classrooms"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community"
+    }
+  },
+  "contributionPriorities": [
+    "1",
+    "2",
+    "3"
+  ],
+  "votePriorities": [
+    "1",
+    "2",
+    "3"
+  ],
+  "localProject": {
+    "name": "Youth Center",
+    "achievement": "Achievement"
+  },
+  "quote": "Delivering"
+}
