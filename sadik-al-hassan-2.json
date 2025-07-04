@@ -1,0 +1,39 @@
+{
+  "mpName": "Sadik Al-Hassan",
+  "constituency": "North Somerset",
+  "musicSelect": 1,
+  "surgeryHours": 159,
+  "casesClosed": 9150,
+  "parliamentContributions": 72,
+  "parliamentVotes": 217,
+  "communityVisits": {
+    "totalEngagements": 250,
+    "category1": {
+      "number": 0,
+      "label": "Local businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "School visits"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community events"
+    }
+  },
+  "contributionPriorities": [
+    "Leasehold reform",
+    "Fighting for our farming communities",
+    "Putting North Somerset first"
+  ],
+  "votePriorities": [
+    "NHS waiting lists down",
+    "Boosting our defence budget",
+    "Dignity in End of Life care"
+  ],
+  "localProject": {
+    "name": "'Fleecehold' scandal",
+    "achievement": "Championing North Somerset leaseholders by confronting FirstPort leadership, launching mass mailouts, and driving parliamentary reform discussion."
+  },
+  "quote": "A voice for North Somerset"
+}
