@@ -1,0 +1,39 @@
+{
+  "mpName": "Rosie Wrighting",
+  "constituency": "Kettering",
+  "musicSelect": 1,
+  "surgeryHours": 24,
+  "casesClosed": 5131,
+  "parliamentContributions": 44,
+  "parliamentVotes": 189,
+  "communityVisits": {
+    "totalEngagements": 148,
+    "category1": {
+      "number": 0,
+      "label": "Classrooms"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Charities"
+    }
+  },
+  "contributionPriorities": [
+    "Our hospital",
+    "Jobs and bills",
+    "Putting Kettering first"
+  ],
+  "votePriorities": [
+    "Bringing NHS waiting lists down",
+    "Investing in housing",
+    "Putting more police on our streets"
+  ],
+  "localProject": {
+    "name": "Energy centre work starts",
+    "achievement": "The first step in the vital redevelopment of Kettering General Hospital"
+  },
+  "quote": "Delivering for Kettering!"
+}
