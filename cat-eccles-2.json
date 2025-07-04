@@ -1,0 +1,39 @@
+{
+  "mpName": "Cat Eccles",
+  "constituency": "Stourbridge",
+  "musicSelect": 7,
+  "surgeryHours": 60,
+  "casesClosed": 4777,
+  "parliamentContributions": 69,
+  "parliamentVotes": 147,
+  "communityVisits": {
+    "totalEngagements": 200,
+    "category1": {
+      "number": 0,
+      "label": "Local businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools and colleges"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "NHS and Social Care",
+    "Housing",
+    "Environment"
+  ],
+  "votePriorities": [
+    "Neighbourhood policing",
+    "Free school meals",
+    "Great British Energy"
+  ],
+  "localProject": {
+    "name": "Save the Dementia Gateway",
+    "achievement": "Campaigned with the community to stop Tory run Dudley Council shutting the Dementia Gateway and raised the issue in Parliament to the Prime Minister."
+  },
+  "quote": "Standing up for Stourbridge"
+}
