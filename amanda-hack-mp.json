@@ -1,0 +1,39 @@
+{
+  "mpName": "Amanda Hack MP",
+  "constituency": "North West Leicestershire",
+  "musicSelect": 8,
+  "surgeryHours": 60,
+  "casesClosed": 6100,
+  "parliamentContributions": 101,
+  "parliamentVotes": 210,
+  "communityVisits": {
+    "totalEngagements": 176,
+    "category1": {
+      "number": 0,
+      "label": "Official Engagements"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Doorknocks"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "The Ivanhoe Line",
+    "Battling for Better Buses",
+    "Education"
+  ],
+  "votePriorities": [
+    "Better public services for you and your family",
+    "Stop sewage dumping in our rivers",
+    "Put more money in your pockets"
+  ],
+  "localProject": {
+    "name": "Mineworkers Pension Justice",
+    "achievement": "Return MPS Investment Reserve Fund to the trustees, delivered after just a few months in Government, a £30 uplift per week for over 1500 former miners"
+  },
+  "quote": "Your MP for North West Leicestershire"
+}
