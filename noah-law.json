@@ -1,0 +1,39 @@
+{
+  "mpName": "Noah Law",
+  "constituency": "St Austell & Newquay",
+  "musicSelect": 5,
+  "surgeryHours": 40,
+  "casesClosed": 8811,
+  "parliamentContributions": 168,
+  "parliamentVotes": 216,
+  "communityVisits": {
+    "totalEngagements": 0,
+    "category1": {
+      "number": 0,
+      "label": "50+"
+    },
+    "category2": {
+      "number": 0,
+      "label": "50+"
+    },
+    "category3": {
+      "number": 0,
+      "label": "50+"
+    }
+  },
+  "contributionPriorities": [
+    "Jobs",
+    "Housing",
+    "The State of our Towns"
+  ],
+  "votePriorities": [
+    "Social Issues",
+    "Environmental Issues",
+    "Taxation & Employment"
+  ],
+  "localProject": {
+    "name": "Investment in GP Surgeries",
+    "achievement": "Funding of refurbishment of Brannel  Surgery and Newquay Health Centre to free up critically needed capacity for patients"
+  },
+  "quote": "Fighting for Cornish Prosperity"
+}
