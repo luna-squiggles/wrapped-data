@@ -1,0 +1,39 @@
+{
+  "mpName": "Jayne Kirkham",
+  "constituency": "Truro and Falmouth",
+  "musicSelect": 7,
+  "surgeryHours": 52,
+  "casesClosed": 8426,
+  "parliamentContributions": 256,
+  "parliamentVotes": 225,
+  "communityVisits": {
+    "totalEngagements": 0,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community events"
+    }
+  },
+  "contributionPriorities": [
+    "Women and children’s unit, Treliske",
+    "Fair funding for Cornwall",
+    "Holding water bosses to account"
+  ],
+  "votePriorities": [
+    "Tackle Cornwall’s housing crisis",
+    "Rebuild our NHS",
+    "Clean up our seas"
+  ],
+  "localProject": {
+    "name": "Women and children’s unit",
+    "achievement": "Secured a new women and children’s unit for Cornwall at Treliske Hospital."
+  },
+  "quote": "Standing up for Cornwall in Westminster"
+}
