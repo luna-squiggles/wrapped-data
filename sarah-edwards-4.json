@@ -1,0 +1,39 @@
+{
+  "mpName": "Sarah Edwards",
+  "constituency": "Tamworth",
+  "musicSelect": 8,
+  "surgeryHours": 125,
+  "casesClosed": 5610,
+  "parliamentContributions": 114,
+  "parliamentVotes": 185,
+  "communityVisits": {
+    "totalEngagements": 163,
+    "category1": {
+      "number": 0,
+      "label": "School Visits"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "Hosted a debate on business energy costs",
+    "Advocated for SEND provision",
+    "Raised the issue of funding for hospices"
+  ],
+  "votePriorities": [
+    "Delivered 40,000 more NHS appointments each week",
+    "Created Great British Energy",
+    "Increased spending on defences by 2.5% of GDP"
+  ],
+  "localProject": {
+    "name": "Small Business Summits",
+    "achievement": "Hosted a number of roundtables with local businesses, with feedback contributing to the work of the Business and Trade Committee and the Government"
+  },
+  "quote": "A Fresh Start for Tamworth&the Villages"
+}
