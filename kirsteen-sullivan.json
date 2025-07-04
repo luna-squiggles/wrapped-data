@@ -1,0 +1,39 @@
+{
+  "mpName": "Kirsteen Sullivan",
+  "constituency": "Bathgate and Linlithgow",
+  "musicSelect": 7,
+  "surgeryHours": 40,
+  "casesClosed": 2570,
+  "parliamentContributions": 73,
+  "parliamentVotes": 175,
+  "communityVisits": {
+    "totalEngagements": 132,
+    "category1": {
+      "number": 0,
+      "label": "Ministerial Visits"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Arco & the RHA"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Gala Days"
+    }
+  },
+  "contributionPriorities": [
+    "Community Green Energy",
+    "Tackling Food Poverty",
+    "Community Achievements"
+  ],
+  "votePriorities": [
+    "Founded GB Energy",
+    "Workers Rights from Day One",
+    "Largest Ever Budget for Scotland (an extra £9.1bn)!"
+  ],
+  "localProject": {
+    "name": "Linlithgow Munitionettes",
+    "achievement": "Gained support from the Minister for Veterans for a memorial at St Michaels & give official thanks to the veterans."
+  },
+  "quote": "Put Local Back Into National Politics"
+}
