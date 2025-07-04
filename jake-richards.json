@@ -1,0 +1,39 @@
+{
+  "mpName": "Jake Richards",
+  "constituency": "Rother Valley",
+  "musicSelect": 7,
+  "surgeryHours": 34,
+  "casesClosed": 4769,
+  "parliamentContributions": 184,
+  "parliamentVotes": 215,
+  "communityVisits": {
+    "totalEngagements": 183,
+    "category1": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "Investment into our high streets",
+    "Education and tackling crime",
+    "Road safety"
+  ],
+  "votePriorities": [
+    "NHS waiting lists down in Rotherham",
+    "Increased defence spending",
+    "£1.5bn transport investment for South Yorkshire"
+  ],
+  "localProject": {
+    "name": "Mineworkers' Pension Scheme",
+    "achievement": "32% increase for 2000 Rother Valley miners"
+  },
+  "quote": "Working hard for Rother Valley"
+}
