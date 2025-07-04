@@ -1,0 +1,39 @@
+{
+  "mpName": "Elsie Blundell",
+  "constituency": "Heywood and Middleton North",
+  "musicSelect": 3,
+  "surgeryHours": 52,
+  "casesClosed": 4545,
+  "parliamentContributions": 137,
+  "parliamentVotes": 225,
+  "communityVisits": {
+    "totalEngagements": 30,
+    "category1": {
+      "number": 0,
+      "label": "Domestic Abuse"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Anti-Social Behaviour"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Health"
+    }
+  },
+  "contributionPriorities": [
+    "Local Transport Connections",
+    "Grooming Gangs",
+    "Creating Jobs"
+  ],
+  "votePriorities": [
+    "Breakfast Clubs in schools",
+    "Defense Spending up to 2.5%",
+    "2 million NHS appointments"
+  ],
+  "localProject": {
+    "name": "Metrolink to Heywood!",
+    "achievement": "Alongside campaigns to Bring Back the 167 bus, we secured funding to bring Metrolink into Heywood in the Spending Review, to transform the town."
+  },
+  "quote": "Change in our Communities"
+}
