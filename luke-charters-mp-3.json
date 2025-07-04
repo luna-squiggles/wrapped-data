@@ -1,0 +1,39 @@
+{
+  "mpName": "Luke Charters MP",
+  "constituency": "York Outer",
+  "musicSelect": 2,
+  "surgeryHours": 64,
+  "casesClosed": 0,
+  "parliamentContributions": 104,
+  "parliamentVotes": 210,
+  "communityVisits": {
+    "totalEngagements": 258,
+    "category1": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Community Groups"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Charities"
+    }
+  },
+  "contributionPriorities": [
+    "Improving renters rights",
+    "Flooding funding for York Outer",
+    "Anti-social behaviour debates"
+  ],
+  "votePriorities": [
+    "Bring NHS waiting lists down",
+    "Clean up our precious waterways in York",
+    "Improve our bus services"
+  ],
+  "localProject": {
+    "name": "Hartrigg Oaks Water Pump",
+    "achievement": "Forced Yorkshire Water to remove a broken water pump, so elderly residents no longer had to worry about flooding in their community."
+  },
+  "quote": "Dedicated to service for York Outer!"
+}
