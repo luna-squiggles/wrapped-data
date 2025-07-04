@@ -1,0 +1,39 @@
+{
+  "mpName": "test",
+  "constituency": "test",
+  "musicSelect": 1,
+  "surgeryHours": 0,
+  "casesClosed": 0,
+  "parliamentContributions": 0,
+  "parliamentVotes": 0,
+  "communityVisits": {
+    "totalEngagements": 0,
+    "category1": {
+      "number": 0,
+      "label": "T"
+    },
+    "category2": {
+      "number": 0,
+      "label": "T"
+    },
+    "category3": {
+      "number": 0,
+      "label": "T"
+    }
+  },
+  "contributionPriorities": [
+    "E",
+    "E",
+    "E"
+  ],
+  "votePriorities": [
+    "E",
+    "E",
+    "E"
+  ],
+  "localProject": {
+    "name": "SS",
+    "achievement": "S"
+  },
+  "quote": "T"
+}
