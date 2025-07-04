@@ -1,0 +1,39 @@
+{
+  "mpName": "Mary Creagh MP",
+  "constituency": "Coventry East",
+  "musicSelect": 7,
+  "surgeryHours": 32,
+  "casesClosed": 4637,
+  "parliamentContributions": 42,
+  "parliamentVotes": 176,
+  "communityVisits": {
+    "totalEngagements": 71,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Groups"
+    }
+  },
+  "contributionPriorities": [
+    "Banning Single-Use Vapes",
+    "Introducing Deposit Return Scheme",
+    "Banning Ivory Trading"
+  ],
+  "votePriorities": [
+    "Support Our NHS: 4 million extra appointments made",
+    "A Healthier Environment: Vape Ban, Fly-Tipping Crackdown",
+    "Best Start for Every Child: Free School Meals, New Nurseries"
+  ],
+  "localProject": {
+    "name": "New Nursery at Stoke Primary",
+    "achievement": "One of the first 300 new school-nurseries, saving parents around £7,500 a year in childcare costs and helping young children prepare for school."
+  },
+  "quote": "Mary Creagh: From Coventry, For Coventry"
+}
