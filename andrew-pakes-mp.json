@@ -1,0 +1,39 @@
+{
+  "mpName": "Andrew Pakes MP",
+  "constituency": "Peterborough",
+  "musicSelect": 8,
+  "surgeryHours": 31,
+  "casesClosed": 6024,
+  "parliamentContributions": 109,
+  "parliamentVotes": 169,
+  "communityVisits": {
+    "totalEngagements": 0,
+    "category1": {
+      "number": 0,
+      "label": "Community Groups"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Local Businesses"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "Apprenticeships",
+    "Skills",
+    "Peace in the Middle East"
+  ],
+  "votePriorities": [
+    "Securing Investment for Peterborough",
+    "Tackling Crime and Anti-Social Behaviour",
+    "Delivering new Jobs for the Next Generation of Peterborough"
+  ],
+  "localProject": {
+    "name": "£48 Million for a New Station",
+    "achievement": "Securing funding for a revitalised Station Quarter, bringing jobs, accessibility and opportunity to our City-Centre"
+  },
+  "quote": "Real Change - Real Action"
+}
