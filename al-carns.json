@@ -1,0 +1,39 @@
+{
+  "mpName": "Al Carns",
+  "constituency": "Birmingham Selly Oak",
+  "musicSelect": 7,
+  "surgeryHours": 20,
+  "casesClosed": 0,
+  "parliamentContributions": 30,
+  "parliamentVotes": 88,
+  "communityVisits": {
+    "totalEngagements": 90,
+    "category1": {
+      "number": 0,
+      "label": "Hospices"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Pharmacies"
+    }
+  },
+  "contributionPriorities": [
+    "Veterans",
+    "Armed forces community",
+    "Cadets"
+  ],
+  "votePriorities": [
+    "Education",
+    "Transport",
+    "Defence"
+  ],
+  "localProject": {
+    "name": "Exempt Accommodation Campaign",
+    "achievement": "Invited a Housing Minister to Selly Park, and highlighted the issue of the proliferation of exempt accommodation."
+  },
+  "quote": "Delivering for Selly Oak!"
+}
