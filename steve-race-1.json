@@ -1,0 +1,39 @@
+{
+  "mpName": "Steve Race",
+  "constituency": "Exeter",
+  "musicSelect": 1,
+  "surgeryHours": 78,
+  "casesClosed": 9510,
+  "parliamentContributions": 168,
+  "parliamentVotes": 203,
+  "communityVisits": {
+    "totalEngagements": 153,
+    "category1": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community roundtables"
+    }
+  },
+  "contributionPriorities": [
+    "Public transport services in Exeter",
+    "SEND improvements in Exeter",
+    "Reducing NHS waiting lists"
+  ],
+  "votePriorities": [
+    "25,000 extra dentist appointments in Devon",
+    "£1.8m to repair Trews Weir and improve flood resilience",
+    "£5.7m for safety improvements at RD&E & Devon Trust"
+  ],
+  "localProject": {
+    "name": "Local funding achieved",
+    "achievement": "£14m for Home Retrofits including £3.8m for Exeter social and council homes \n£299,000 funding for Young Devon’s Early Support Hub"
+  },
+  "quote": "Delivering for Exeter"
+}
