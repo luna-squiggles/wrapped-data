@@ -1,0 +1,39 @@
+{
+  "mpName": "Dr Scott Arthur",
+  "constituency": "Edinburgh South West",
+  "musicSelect": 7,
+  "surgeryHours": 32,
+  "casesClosed": 5324,
+  "parliamentContributions": 5,
+  "parliamentVotes": 212,
+  "communityVisits": {
+    "totalEngagements": 181,
+    "category1": {
+      "number": 0,
+      "label": "Community Groups"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Charities"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Employers"
+    }
+  },
+  "contributionPriorities": [
+    "Sale of Redford Barracks",
+    "Road Safety",
+    "Balerno Farmers Market"
+  ],
+  "votePriorities": [
+    "40,000 more NHS appointments",
+    "Strategic defence review",
+    "GB Energy"
+  ],
+  "localProject": {
+    "name": "Dreghorn military housing",
+    "achievement": "Campaigning resulted in a deal with the council to purchase 38 MoD homes near Dreghorn Barracks preventing 15 families from becoming homeless."
+  },
+  "quote": "Delivering for Edinburgh South West"
+}
