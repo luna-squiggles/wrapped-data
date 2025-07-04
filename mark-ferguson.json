@@ -1,0 +1,39 @@
+{
+  "mpName": "Mark Ferguson",
+  "constituency": "Gateshead Central and Whickham",
+  "musicSelect": 7,
+  "surgeryHours": 24,
+  "casesClosed": 4703,
+  "parliamentContributions": 99,
+  "parliamentVotes": 233,
+  "communityVisits": {
+    "totalEngagements": 186,
+    "category1": {
+      "number": 0,
+      "label": "Surgeries"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Community Visits"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Business Engagment"
+    }
+  },
+  "contributionPriorities": [
+    "Gateshead",
+    "Investment",
+    "Gaza"
+  ],
+  "votePriorities": [
+    "Waiting lists down",
+    "Delivering better rights at work",
+    "More police on our streets"
+  ],
+  "localProject": {
+    "name": "Investment in our town centre",
+    "achievement": "Making the case and winning the argument for fixing Gateshead Town Centre"
+  },
+  "quote": "Change is coming to Gateshead"
+}
