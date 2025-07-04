@@ -1,0 +1,39 @@
+{
+  "mpName": "David Taylor MP",
+  "constituency": "Hemel Hempstead",
+  "musicSelect": 5,
+  "surgeryHours": 30,
+  "casesClosed": 1300,
+  "parliamentContributions": 105,
+  "parliamentVotes": 234,
+  "communityVisits": {
+    "totalEngagements": 0,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Healthcare Providers"
+    }
+  },
+  "contributionPriorities": [
+    "Advocating for more police resources",
+    "Raising local SEND stories",
+    "Pushing for improved healthcare access"
+  ],
+  "votePriorities": [
+    "Voting to end no fault evictions",
+    "Delivering 4 million extra NHS appointment",
+    "Investing record per pupil funding for schools"
+  ],
+  "localProject": {
+    "name": "Improving local transport",
+    "achievement": "Raised bus service frustrations with Ministers, securing £12.2m boost for Herts. Successfully campaigned for an early morning train from Apsley"
+  },
+  "quote": "A Year of Delivering for Hemel"
+}
