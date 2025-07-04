@@ -1,0 +1,39 @@
+{
+  "mpName": "dyfh",
+  "constituency": "dfyj",
+  "musicSelect": 3,
+  "surgeryHours": 0,
+  "casesClosed": 345,
+  "parliamentContributions": 45768,
+  "parliamentVotes": 565,
+  "communityVisits": {
+    "totalEngagements": 345,
+    "category1": {
+      "number": 0,
+      "label": "dfgj"
+    },
+    "category2": {
+      "number": 0,
+      "label": "dfjy"
+    },
+    "category3": {
+      "number": 0,
+      "label": "dfyj"
+    }
+  },
+  "contributionPriorities": [
+    "rtyj",
+    "rtyj",
+    "rtyj"
+  ],
+  "votePriorities": [
+    "erth",
+    "reth",
+    "reth"
+  ],
+  "localProject": {
+    "name": "dfgh",
+    "achievement": "utky"
+  },
+  "quote": "etyj"
+}
