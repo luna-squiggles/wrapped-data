@@ -1,0 +1,39 @@
+{
+  "mpName": "John Whitby",
+  "constituency": "Derbyshire Dales",
+  "musicSelect": 5,
+  "surgeryHours": 36,
+  "casesClosed": 2598,
+  "parliamentContributions": 60,
+  "parliamentVotes": 215,
+  "communityVisits": {
+    "totalEngagements": 202,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Community Events"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Farmers"
+    }
+  },
+  "contributionPriorities": [
+    "Children’s Social Care",
+    "Environment",
+    "Standing up for Derbyshire Dales"
+  ],
+  "votePriorities": [
+    "Record investment in the NHS",
+    "Creation of Great British Energy",
+    "39 billion for affordable housing"
+  ],
+  "localProject": {
+    "name": "Banking Hubs",
+    "achievement": "Delivery of banking hubs in Bakewell and Ashbourne ensuring residents have access to banking facilities and visitors have access to cash withdrawals."
+  },
+  "quote": "Delivering for Derbyshire Dales"
+}
