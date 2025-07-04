@@ -1,0 +1,39 @@
+{
+  "mpName": "Jodie Gosling",
+  "constituency": "Nuneaton",
+  "musicSelect": 2,
+  "surgeryHours": 60,
+  "casesClosed": 4140,
+  "parliamentContributions": 66,
+  "parliamentVotes": 207,
+  "communityVisits": {
+    "totalEngagements": 153,
+    "category1": {
+      "number": 0,
+      "label": "Local businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Community events"
+    },
+    "category3": {
+      "number": 0,
+      "label": "School visits"
+    }
+  },
+  "contributionPriorities": [
+    "Education, schools and SEND",
+    "Local Government and Services",
+    "Transport and Infrastructure"
+  ],
+  "votePriorities": [
+    "Created the National Wealth Fund",
+    "Biggest ever increase in Minimum Wage",
+    "Ended no fault evictions"
+  ],
+  "localProject": {
+    "name": "Supported Internships",
+    "achievement": "Granted £12 million funding for young people with learning disabilities to gain supported internships across Nuneaton and UK businesses!"
+  },
+  "quote": "Working hard for Nuneaton"
+}
