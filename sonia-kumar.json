@@ -1,0 +1,39 @@
+{
+  "mpName": "Sonia Kumar",
+  "constituency": "Dudley",
+  "musicSelect": 1,
+  "surgeryHours": 46,
+  "casesClosed": 4338,
+  "parliamentContributions": 70,
+  "parliamentVotes": 205,
+  "communityVisits": {
+    "totalEngagements": 235,
+    "category1": {
+      "number": 0,
+      "label": "business breakfasts"
+    },
+    "category2": {
+      "number": 0,
+      "label": "coffee mornings"
+    },
+    "category3": {
+      "number": 0,
+      "label": "school visits"
+    }
+  },
+  "contributionPriorities": [
+    "aa",
+    "bb",
+    "cc"
+  ],
+  "votePriorities": [
+    "police",
+    "health",
+    "high streets"
+  ],
+  "localProject": {
+    "name": "Meadow Road Youth Centre",
+    "achievement": "qwerty"
+  },
+  "quote": "no 1 for dudley"
+}
