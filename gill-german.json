@@ -1,0 +1,39 @@
+{
+  "mpName": "Gill German",
+  "constituency": "Clwyd North",
+  "musicSelect": 1,
+  "surgeryHours": 0,
+  "casesClosed": 0,
+  "parliamentContributions": 32,
+  "parliamentVotes": 216,
+  "communityVisits": {
+    "totalEngagements": 0,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community events"
+    }
+  },
+  "contributionPriorities": [
+    "Pension equality",
+    "Child poverty",
+    "Creative sector"
+  ],
+  "votePriorities": [
+    "Na",
+    "Na",
+    "Na"
+  ],
+  "localProject": {
+    "name": "Rhyl Train Station Drop off",
+    "achievement": "Helped get drop off zone"
+  },
+  "quote": "Delivering for Clwyd North!"
+}
