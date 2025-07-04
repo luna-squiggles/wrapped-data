@@ -1,0 +1,39 @@
+{
+  "mpName": "Melanie Ward",
+  "constituency": "Cowdenbeath and Kirkcaldy",
+  "musicSelect": 2,
+  "surgeryHours": 26,
+  "casesClosed": 1902,
+  "parliamentContributions": 88,
+  "parliamentVotes": 70,
+  "communityVisits": {
+    "totalEngagements": 0,
+    "category1": {
+      "number": 0,
+      "label": "Something"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Something else"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Soemthing else"
+    }
+  },
+  "contributionPriorities": [
+    "Funding for Kirkcaldy town centre",
+    "Suporting our miners",
+    "soemthing else"
+  ],
+  "votePriorities": [
+    "returned money to MPS",
+    "This one",
+    "that ine"
+  ],
+  "localProject": {
+    "name": "Multimillion pound investment",
+    "achievement": "I secured money to renew kirkcaldys town centre and seafront"
+  },
+  "quote": "Standing up for Fife"
+}
