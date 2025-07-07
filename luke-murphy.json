@@ -1,0 +1,39 @@
+{
+  "mpName": "Luke Murphy",
+  "constituency": "Basingstoke",
+  "musicSelect": 1,
+  "surgeryHours": 102,
+  "casesClosed": 762,
+  "parliamentContributions": 185,
+  "parliamentVotes": 221,
+  "communityVisits": {
+    "totalEngagements": 312,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "Access to GPs",
+    "Special Educational Needs & Disabilities",
+    "Basingstoke Business"
+  ],
+  "votePriorities": [
+    "Deliver an extra 2 million NHS operations & appointments",
+    "Set a path to spending 2.5% of GDP on defence",
+    "Establish Great British Energy"
+  ],
+  "localProject": {
+    "name": "Land for Basingstoke Hospital",
+    "achievement": "Secured Government funding for Hampshire Hospitals to buy land for Basingstoke’s new hospital - unlocking the next step in getting it built."
+  },
+  "quote": "Backing Basingstoke"
+}
