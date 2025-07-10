@@ -1,0 +1,39 @@
+{
+  "mpName": "Matt Western",
+  "constituency": "Warwick and Leamington",
+  "musicSelect": 2,
+  "surgeryHours": 30,
+  "casesClosed": 300,
+  "parliamentContributions": 50,
+  "parliamentVotes": 1355,
+  "communityVisits": {
+    "totalEngagements": 200,
+    "category1": {
+      "number": 0,
+      "label": "Businesses"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Community Events"
+    }
+  },
+  "contributionPriorities": [
+    "Water",
+    "Housing",
+    "International Affairs"
+  ],
+  "votePriorities": [
+    "Warwick",
+    "Leamington",
+    "Whitnash"
+  ],
+  "localProject": {
+    "name": "sfegqfrgqe",
+    "achievement": "efegwfdvgf"
+  },
+  "quote": "National Voice, Local Champion"
+}
