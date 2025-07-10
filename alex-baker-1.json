@@ -1,0 +1,39 @@
+{
+  "mpName": "Alex Baker",
+  "constituency": "Aldershot and Farnborough",
+  "musicSelect": 5,
+  "surgeryHours": 291,
+  "casesClosed": 6700,
+  "parliamentContributions": 27,
+  "parliamentVotes": 400,
+  "communityVisits": {
+    "totalEngagements": 260,
+    "category1": {
+      "number": 0,
+      "label": "Community events"
+    },
+    "category2": {
+      "number": 0,
+      "label": "Schools and colleges"
+    },
+    "category3": {
+      "number": 0,
+      "label": "Local businesses"
+    }
+  },
+  "contributionPriorities": [
+    "Frimley Park Hospital",
+    "Jobs and training for young people",
+    "Better housing for military families"
+  ],
+  "votePriorities": [
+    "Rebuild Frimley Park Hospital",
+    "Investment in a Farnborough Swimming Pool",
+    "Four-fold increase in affordable housing construction"
+  ],
+  "localProject": {
+    "name": "Frimley Park Hospital",
+    "achievement": "Frimley will now be among the first hospitals in the UK to be rebuilt"
+  },
+  "quote": "Standing up for Aldershot & Farnborough"
+}
